@@ -15,3 +15,6 @@ This project is a proposal for an interactive sustainability map for IIT Bombay.
 - `sustainability.cell.html` — Main hero section redesign.
 - `Proposal for sustainability map.docx` - Proposal for sustainability map.
 - `README.md` — Project overview and submission details.
+
+## Live Demo for Hero Design
+file:///C:/Users/patid/Downloads/sustainability.cell.html
