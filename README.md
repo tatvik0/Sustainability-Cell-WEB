@@ -11,7 +11,7 @@ This repository contains my submission for the Sustainability Cell Web Convener 
 This project is a proposal for an interactive sustainability map for IIT Bombay. It is meant to help students easily find sustainability-related facilities and initiatives on campus, such as biogas plants, recycling points, dustbins, and other eco-friendly locations. The aim is to make these places more visible, accessible, and useful for students.
 
 ## Structure of Files and Folders
--`index.html`- – the page content
+-`index.html`- – the page content/n
 -`style.css`- – all the styling
 -`script.js`- – the small animation code
 -`logo.png`- – Sustainability Cell logo
