@@ -9,7 +9,7 @@ This is a landing page I built for the Sustainability Cell, IIT Bombay. It has a
 
 I built it using HTML for the structure, CSS for all the styling and hover effects, and a little bit of JavaScript (with the GSAP library) just for the fade-in animations.
 
-I did all the work myself, learning HTML and CSS from online resources, and used AI as a learning tool to understand new concepts and help debug along the way. The design and decisions are mine.
+I did all the work myself, learning HTML and CSS from the resources provided, and used AI as a learning tool to understand new concepts and help debug along the way. The design and decisions are mine.
 
 ### Q2: Ideating Sustainability Map for IIT Bombay
 This project is a proposal for an interactive sustainability map for IIT Bombay. It is meant to help students easily find sustainability-related facilities and initiatives on campus, such as biogas plants, recycling points, dustbins, and other eco-friendly locations. The aim is to make these places more visible, accessible, and useful for students.
